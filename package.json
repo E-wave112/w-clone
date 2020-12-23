@@ -1,0 +1,24 @@
+{
+  "name": "whatsapp-clone",
+  "version": "1.0.0",
+  "description": "a whatsapp like web based application built with javascript",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "clone",
+    "mern"
+  ],
+  "author": "E-wave",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "ejs": "^3.1.5",
+    "express": "^S4.7.1",
+    "mongoose": "^5.11.8",
+    "pusher": "^4.0.2"
+  }
+}
